@@ -21,5 +21,7 @@ public class CelsiusToFahreinheit {
         System.out.println(String.format("A temperatura de %.2f Cº equivale " +
                                         "à %.2f Fº.", celsius, fahreinheit));
 
+        System.out.println("Obrigado por utilizar nosso programa de conversão!!!");
+
     }
 }
